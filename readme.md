@@ -12,7 +12,7 @@ In addition, I am enjoying working in Go and wanted an excuse to write more of i
 
 ## Don't Use This
 
-Use [gopcap](https://github.com/Lukasa/gopcap) by @Lukasa instead. It was not written in a little over an hour, and it parses down several OSI layers. It is also a proper library, and it has premium features like tests.
+Use [gopcap](https://github.com/Lukasa/gopcap) by [@Lukasa](https://github.com/Lukasa) instead. It was not written in a little over an hour, and it parses down several OSI layers. It is also a proper library, and it has premium features like tests.
 
 ## Caveats
 
